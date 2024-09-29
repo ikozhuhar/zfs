@@ -71,7 +71,7 @@
 
 [Официальная документация по Oracle Solaris ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/gbcya/index.html)
 
-[Статья о ZFS(теория и практика)](http://xgu.ru/wiki/ZFS)
+[Статья о ZFS (теория и практика)](http://xgu.ru/wiki/ZFS)
 
 
 
