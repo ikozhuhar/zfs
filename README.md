@@ -1,6 +1,12 @@
 ### Файловая система ZFS
 
-#### 1. Определение алгоритма с наилучшим сжатием
+#### <a name='toc'>Содержание</a>
+1. [Определение алгоритма с наилучшим сжатием](#compression)
+2. [Определение настроек пула](#pool_settings)
+3. [Работа со снапшотом](#snapshots)
+4. [Рекомендуемые источники](#recommended_sources)
+
+#### 1. [[⬆]](#toc) <a name='compression'>Определение алгоритма с наилучшим сжатием</a>
 
 ##### Смотрим список всех дисков, которые есть в виртуальной машине: `lsblk`
 ![image](https://github.com/user-attachments/assets/c2d27d37-a182-4ef0-8105-b2d43056856f)
@@ -30,7 +36,7 @@
 ![image](https://github.com/user-attachments/assets/d1e44a66-3e4f-473f-8f12-27f62ae7cb45)
 
 
-#### 2. Определение настроек пула
+#### 2. [[⬆]](#toc) <a name='pool_settings'>Определение настроек пула</a>
 
 ##### Скачиваем архив в домашний каталог и разархивируем его:
 ![image](https://github.com/user-attachments/assets/f7cdf191-f27b-4bde-9c22-7874d1950f59)
@@ -48,7 +54,7 @@
 ![image](https://github.com/user-attachments/assets/c011fa30-6dda-4f29-83b8-2880557e9823)
 
 
-#### 3. Работа со снапшотом, поиск сообщения
+#### 3. [[⬆]](#toc) <a name='snapshots'>Работа со снапшотом, поиск сообщения</a>
 
 ##### Скачаем файл
 ![image](https://github.com/user-attachments/assets/b7c6ccf8-6394-4cab-b5de-25e5241e2e2b)
@@ -63,7 +69,7 @@
 ![image](https://github.com/user-attachments/assets/ae69979e-2e17-4cb2-b8d5-71b0a7bb66e8)
 
 
-#### 4. Рекомендуемые источники
+#### 4. [[⬆]](#toc) <a name='recommended_sources'>Рекомендуемые источники</a>
 
 [Статья о ZFS](https://ru.wikipedia.org/wiki/ZFS)
 
