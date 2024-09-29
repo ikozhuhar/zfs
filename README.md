@@ -9,7 +9,7 @@
 ##### Создаём 4 пула из двух дисков в режиме RAID 1:
 ![image](https://github.com/user-attachments/assets/93d65914-572b-4657-96a5-124c207ca31b)
 
-##### Смотрим информацию о пулах: `zpool list`
+##### Смотрим информацию о пулах: `zpool list` и `zpool status`
 ![image](https://github.com/user-attachments/assets/3b72677b-4af3-4e81-9051-502a12aaaecf)
 ![image](https://github.com/user-attachments/assets/a946fcd4-691c-4a4c-970e-855ee573b969)
 
