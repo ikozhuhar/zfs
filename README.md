@@ -65,13 +65,13 @@
 
 #### 4. Рекомендуемые источники
 
-[##### Статья о ZFS](https://ru.wikipedia.org/wiki/ZFS)
+[Статья о ZFS](https://ru.wikipedia.org/wiki/ZFS)
 
-[##### Статья «Что такое ZFS? И почему люди от неё без ума?»](https://habr.com/ru/articles/424651/)
+[Статья «Что такое ZFS? И почему люди от неё без ума?»](https://habr.com/ru/articles/424651/)
 
-[##### Официальная документация по Oracle Solaris ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/gbcya/index.html)
+[Официальная документация по Oracle Solaris ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/gbcya/index.html)
 
-[##### Статья о ZFS](теория и практика)(http://xgu.ru/wiki/ZFS)
+[Статья о ZFS(теория и практика)](http://xgu.ru/wiki/ZFS)
 
 
 
